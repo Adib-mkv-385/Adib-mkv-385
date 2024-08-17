@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on discord-Rarepizza232205 & instagram-Adib-mkv-385
-- 😄 Pronouns: Adib_mkv_385
+- 😄 Pronouns: he/him
+- 
 - ⚡ Fun fact: I'm a boy
 
 <!---
