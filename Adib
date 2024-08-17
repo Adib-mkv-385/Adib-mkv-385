@@ -1,1 +1,42 @@
+import turtle
+
+s = turtle.Screen()
+s.bgcolor('black')
+
+pen = turtle.Turtle()
+pen.speed(1)
+pen.color('red')
+pen.hideturtle()
+
+pen.penup()
+pen.goto(0,-120)
+pen.pendown()
+
+pen.begin_fill()
+
+pen.fillcolor('red')
+pen.left(140)
+pen.forward(180)
+pen.circle(-90, 200)
+pen.setheading(60)
+pen.circle(-90, 200)
+pen.forward(180)
+
+pen.end_fill()
+
+def txt(): 
+  
+    pen.up() 
+    pen.setpos(-80,40) 
+    pen.down() 
+    pen.color('lightgreen') 
+ 
+    pen.write("I love you Jufnoon:)", font=( 
+      "Verdana", 12, "bold")) 
+  
+txt() 
+  
+pen.ht() 
+
+s.mainloop()
 
